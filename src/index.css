@@ -1,0 +1,5 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /*sirve para q todo lo q hagamos se mantenga en una caja*/
+}
